@@ -1,0 +1,15 @@
+@import url("https://statics.goorm.io/fonts/GoormSansCode/v1.0.0/GoormSansCode.min.css");
+
+.titleButton {
+    display: flex;
+    align-content: center;
+    background-color: rgba(255, 230, 151, 0.8);
+    font-family: "Goorm Sans Code", sans-serif;
+    font-style: normal;
+    font-size: xx-large;
+    border: none;
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
